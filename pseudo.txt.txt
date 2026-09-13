@@ -1,0 +1,34 @@
+Question 1.) 
+Request a positive integer from the user
+	store integer in variable "Positive Numbers" if value does not contain a zero value/digit
+	when user inputs a integer that contains a zero value then
+		print out "Positive Numbers" if integers => 100
+
+Question 2.) 
+Request user's name
+	store name in variable called "First_Name"
+	print out "First_Name" with phrase "Hello, World"
+
+Question 3.)
+get class attendance
+	calculate the school average attendance by dividing the total number of days the students were present by total number of days school was operating
+	print school average attendance 
+
+
+Question 4.) -
+get grocery list 
+	if food has already been bought then 
+		remove from grocery list
+	order grocery list by alphabetical order
+	print grocery list
+
+Question 5.) 
+get x and y
+	calcuate "S" by adding x with y
+	calculate "A" by dividing S by 2
+	calculate "P" by multiplying X with Y
+	print "S" and "A" and "P"
+
+
+
+	
